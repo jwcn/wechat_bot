@@ -9,6 +9,8 @@
 ```
 node index.js
 ```
+访问 `localhost:3000`
+
 # 参考
 - https://github.com/Chatie/wechaty
 - https://chatie.io/wechaty/
